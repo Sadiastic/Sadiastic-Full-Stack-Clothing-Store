@@ -9,8 +9,8 @@ const Footer = () => {
         <div>
             <img src={assets.logo} className='mb-5 w-32' alt="" />
             <p className='w-full md:w-2/3 text-gray-600'>
-            This platform, Sadiastic, is proudly developed by <strong>AshTech</strong>, a Software Service and Production Company based in Pakistan. 
-            Dedicated to delivering innovative solutions, <strong>AshTech</strong> aims to empower businesses and individuals through cutting-edge technology.
+            This platform, <strong>Sadiastic</strong>, is proudly developed by <strong>AshTech</strong>, a Software Service and Production Company based in Pakistan. 
+            Dedicated to delivering innovative solutions, AshTech aims to empower businesses and individuals through cutting-edge technology.
             </p>
         </div>
 
