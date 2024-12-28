@@ -14,10 +14,10 @@ const About = () => {
       <div className='my-10 flex flex-col md:flex-row gap-16'>
           <img className='w-full md:max-w-[450px]' src={assets.about_img} alt="" />
           <div className='flex flex-col justify-center gap-6 md:w-2/4 text-gray-600'>
-              <p align = 'justify'>I’m --------, a Computer Engineering student at COMSATS University Islamabad, Attock Campus, with a passion for technology, entrepreneurship, and design. I specialize in web development and database management, constantly seeking innovative solutions and creating user-friendly applications.</p>
-              <p align = 'justify'>I am also the founder of Sadiastic, an online clothing store that offers stylish and high-quality apparel for everyone. Since our inception, we've worked tirelessly to curate a diverse selection of high-quality products that cater to every taste and preference. In, we offer an extensive collection sourced from trusted brands and suppliers.</p>
+              <p align = 'justify'>At Sadiastic, we bring you a one-stop solution for all your clothing needs, catering to women, men, and kids. Our E-Clothing Store is designed to provide top-quality apparel that blends style, comfort, and durability, ensuring you never have to compromise on what matters most to you. From casual wear to formal attire, we offer a diverse collection that suits every occasion and season.</p>
+              <p align = 'justify'>Our journey began with a passion for making premium fashion accessible to everyone. We strive to create a seamless shopping experience through our user-friendly platform, curated collections, and unparalleled customer service. With Sadiastic, you can shop with confidence, knowing that every product is crafted with care and quality at its core.</p>
               <b className='text-gray-800'>Our Mission</b>
-              <p align = 'justify'>Our mission is to provide accessible and affordable fashion while ensuring a sustainable and exceptional customer experience. This project was built for my DBMS course at university using the MERN Stack, combining my skills in technology and my entrepreneurial drive.</p>
+              <p align = 'justify'>At Sadiastic, our mission is to revolutionize the way people shop for clothing. We aim to connect fashion enthusiasts with premium products through an efficient, innovative, and customer-centric platform. By combining the best of technology and fashion, we aspire to inspire confidence and self-expression in every individual.</p>
           </div>
       </div>
 
