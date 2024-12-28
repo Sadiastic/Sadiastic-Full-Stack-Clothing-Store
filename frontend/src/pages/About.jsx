@@ -14,7 +14,7 @@ const About = () => {
       <div className='my-10 flex flex-col md:flex-row gap-16'>
           <img className='w-full md:max-w-[450px]' src={assets.about_img} alt="" />
           <div className='flex flex-col justify-center gap-6 md:w-2/4 text-gray-600'>
-              <p align = 'justify'>I’m Sadia Malik, a Computer Engineering student at COMSATS University Islamabad, Attock Campus, with a passion for technology, entrepreneurship, and design. I specialize in web development and database management, constantly seeking innovative solutions and creating user-friendly applications.</p>
+              <p align = 'justify'>I’m --------, a Computer Engineering student at COMSATS University Islamabad, Attock Campus, with a passion for technology, entrepreneurship, and design. I specialize in web development and database management, constantly seeking innovative solutions and creating user-friendly applications.</p>
               <p align = 'justify'>I am also the founder of Sadiastic, an online clothing store that offers stylish and high-quality apparel for everyone. Since our inception, we've worked tirelessly to curate a diverse selection of high-quality products that cater to every taste and preference. In, we offer an extensive collection sourced from trusted brands and suppliers.</p>
               <b className='text-gray-800'>Our Mission</b>
               <p align = 'justify'>Our mission is to provide accessible and affordable fashion while ensuring a sustainable and exceptional customer experience. This project was built for my DBMS course at university using the MERN Stack, combining my skills in technology and my entrepreneurial drive.</p>
