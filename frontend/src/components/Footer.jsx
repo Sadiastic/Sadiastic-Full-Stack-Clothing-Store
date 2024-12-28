@@ -9,8 +9,8 @@ const Footer = () => {
         <div>
             <img src={assets.logo} className='mb-5 w-32' alt="" />
             <p className='w-full md:w-2/3 text-gray-600'>
-            I’m Sadia Malik, a Computer Engineering student at COMSATS University Islamabad, Attock Campus.
-            This Full Stack Web Application project (Sadiastic) was built for my DBMS course at university using the MERN Stack.
+            This platform, Sadiastic, is proudly developed by AshTech, a Software Service and Production Company based in Pakistan. 
+            Dedicated to delivering innovative solutions, AshTech aims to empower businesses and individuals through cutting-edge technology.
             </p>
         </div>
 
